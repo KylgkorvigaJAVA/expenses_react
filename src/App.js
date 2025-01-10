@@ -18,7 +18,7 @@ const DUMMY_EXPENSES = [
   },
   {
     id: Math.random().toString(),
-    date: new Date(2026, 10, 26),
+    date: new Date(2025, 10, 26),
     title: 'New Milk',
     price: 18.59
   }
