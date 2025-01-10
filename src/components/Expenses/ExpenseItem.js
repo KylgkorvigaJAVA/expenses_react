@@ -4,7 +4,6 @@ import Card from '../UI/Card'
 import { useState } from 'react'
 
 const ExpenseItem = (props) => {
-    const [title, setTitle] = useState(props.data.title)
 
     return (
         <Card className='expense-item'>
